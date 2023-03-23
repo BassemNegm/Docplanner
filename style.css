@@ -35,11 +35,10 @@ nav {
 }
 nav a {
 	text-decoration: none;
-	color: black;
+	color: #747474;
 }
 nav a:hover {
-	color: red;
-	text-decoration: underline;
+	color: #00b39b;
 }
 
 .dropbtn {
@@ -60,11 +59,11 @@ nav a:hover {
 	display: block;
 	padding: 12px 16px;
 	text-decoration: none;
-	color: rgb(186, 41, 41);
+	color: rgb(81, 79, 79);
 }
 .drop-contents a:hover {
-	background-color: rgb(0, 0, 0);
-	color: greenyellow;
+	background-color: white;
+	color: rgb(130, 131, 129);
 }
 .dropdown:hover .drop-contents {
 	display: block;
@@ -73,8 +72,7 @@ nav a:hover {
 	display: block;
 }
 .dropdown:hover .dropbtn {
-	color: red;
-	text-decoration: underline;
+	color: #00b39b;
 }
 main {
 	margin-top: 15rem;
